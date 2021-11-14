@@ -1,1 +1,1 @@
-content/react/concepts/state/state.md
+content/typescript/concepts/type-annotations/type-annotations.md
