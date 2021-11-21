@@ -1,1 +1,1 @@
-content/typescript/concepts/type-annotations/type-annotations.md
+content/git/concepts/commit/commit.md
