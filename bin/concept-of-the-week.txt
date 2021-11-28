@@ -1,1 +1,1 @@
-content/git/concepts/commit/commit.md
+content/cpp/concepts/methods/methods.md
