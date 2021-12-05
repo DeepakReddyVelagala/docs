@@ -1,1 +1,1 @@
-content/cpp/concepts/methods/methods.md
+content/general/concepts/what-is-inheritance/what-is-inheritance.md
