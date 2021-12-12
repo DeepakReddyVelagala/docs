@@ -1,1 +1,1 @@
-content/general/concepts/what-is-inheritance/what-is-inheritance.md
+content/general/concepts/what-is-a-cache/what-is-a-cache.md
