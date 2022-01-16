@@ -1,1 +1,1 @@
-content/sql/concepts/constraints/constraints.md
+content/general/concepts/what-is-binary/what-is-binary.md
