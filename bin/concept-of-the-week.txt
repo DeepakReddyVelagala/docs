@@ -1,1 +1,1 @@
-content/javascript/concepts/dates/dates.md
+content/c/concepts/compiling/compiling.md
