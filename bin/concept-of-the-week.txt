@@ -1,1 +1,1 @@
-content/c/concepts/compiling/compiling.md
+content/javascript/concepts/switch/switch.md
