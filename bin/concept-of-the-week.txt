@@ -1,1 +1,1 @@
-content/javascript/concepts/switch/switch.md
+content/javascript/concepts/sort/sort.md
