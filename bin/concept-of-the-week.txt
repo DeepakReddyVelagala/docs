@@ -1,1 +1,1 @@
-content/emojicode/concepts/dictionaries/dictionaries.md
+content/sql/concepts/operators/operators.md
