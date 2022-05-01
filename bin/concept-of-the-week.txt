@@ -1,1 +1,1 @@
-content/sql/concepts/operators/operators.md
+content/html/concepts/tags/tags.md
