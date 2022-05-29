@@ -1,1 +1,1 @@
-content/general/concepts/what-is-moores-law/what-is-moores-law.md
+content/ruby/concepts/files/files.md
