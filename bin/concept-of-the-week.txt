@@ -1,1 +1,1 @@
-content/php/concepts/conditionals/conditionals.md
+content/java/concepts/random/random.md
