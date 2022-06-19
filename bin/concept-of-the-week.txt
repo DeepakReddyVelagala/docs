@@ -1,1 +1,1 @@
-content/java/concepts/random/random.md
+content/python/concepts/comments/comments.md
