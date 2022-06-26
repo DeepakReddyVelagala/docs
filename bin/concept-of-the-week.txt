@@ -1,1 +1,1 @@
-content/python/concepts/comments/comments.md
+content/cpp/concepts/smart-pointers/smart-pointers.md
