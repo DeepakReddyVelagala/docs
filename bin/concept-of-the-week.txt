@@ -1,1 +1,1 @@
-content/cpp/concepts/smart-pointers/smart-pointers.md
+content/cpp/concepts/encapsulation/encapsulation.md
