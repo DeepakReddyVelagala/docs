@@ -1,1 +1,1 @@
-content/css/concepts/comments/comments.md
+content/javascript/concepts/bitwise-operators/bitwise-operators.md
