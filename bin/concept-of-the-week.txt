@@ -1,1 +1,1 @@
-content/javascript/concepts/bitwise-operators/bitwise-operators.md
+content/javascript/concepts/arrays/arrays.md
