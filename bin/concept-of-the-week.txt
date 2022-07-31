@@ -1,1 +1,1 @@
-content/javascript/concepts/arrays/arrays.md
+content/ruby/concepts/gems/gems.md
