@@ -1,1 +1,1 @@
-content/ruby/concepts/gems/gems.md
+content/html/concepts/images/images.md
