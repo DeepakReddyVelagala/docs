@@ -1,1 +1,1 @@
-content/general/concepts/what-is-pseudocode/what-is-pseudocode.md
+content/python/concepts/requests-methods/requests-methods.md
