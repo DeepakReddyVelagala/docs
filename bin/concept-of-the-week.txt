@@ -1,1 +1,1 @@
-content/general/concepts/who-is-dennis-ritchie/who-is-dennis-ritchie.md
+content/javascript/concepts/errors/errors.md
