@@ -1,1 +1,1 @@
-content/swift/concepts/loops/loops.md
+content/emojicode/concepts/conditionals/conditionals.md
