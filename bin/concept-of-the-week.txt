@@ -1,1 +1,1 @@
-content/emojicode/concepts/conditionals/conditionals.md
+content/cpp/concepts/operators/operators.md
