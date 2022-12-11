@@ -1,1 +1,1 @@
-content/javascript/concepts/methods/methods.md
+content/markdown/concepts/images/images.md
