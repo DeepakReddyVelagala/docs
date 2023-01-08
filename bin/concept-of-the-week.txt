@@ -1,1 +1,1 @@
-content/c/concepts/compiling/compiling.md
+content/sql/concepts/joins/joins.md
