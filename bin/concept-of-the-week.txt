@@ -1,1 +1,1 @@
-content/sql/concepts/joins/joins.md
+content/ruby/concepts/errors/errors.md
