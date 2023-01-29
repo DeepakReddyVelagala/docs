@@ -1,1 +1,1 @@
-content/ruby/concepts/loops/loops.md
+content/javascript/concepts/arrays/arrays.md
