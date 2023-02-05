@@ -1,1 +1,1 @@
-content/javascript/concepts/arrays/arrays.md
+content/c/concepts/arrays/arrays.md
