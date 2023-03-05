@@ -1,1 +1,1 @@
-content/javascript/concepts/npm/npm.md
+content/javascript/concepts/conditionals/conditionals.md
