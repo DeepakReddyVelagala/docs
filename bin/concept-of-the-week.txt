@@ -1,1 +1,1 @@
-content/javascript/concepts/conditionals/conditionals.md
+content/java/concepts/comments/comments.md
