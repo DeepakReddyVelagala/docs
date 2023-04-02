@@ -1,1 +1,1 @@
-content/ruby/concepts/comments/comments.md
+content/c/concepts/pointers/pointers.md
