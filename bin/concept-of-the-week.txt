@@ -1,1 +1,1 @@
-content/css/concepts/sizing/sizing.md
+content/markdown/concepts/tables/tables.md
