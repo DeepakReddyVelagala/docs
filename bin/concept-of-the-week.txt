@@ -1,1 +1,1 @@
-content/general/concepts/what-is-an-ide/what-is-an-ide.md
+content/html/concepts/attributes/attributes.md
