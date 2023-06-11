@@ -1,1 +1,1 @@
-content/emojicode/concepts/operators/operators.md
+content/php/concepts/variables/variables.md
