@@ -1,1 +1,1 @@
-content/html/concepts/lists/lists.md
+content/git/concepts/pull/pull.md
