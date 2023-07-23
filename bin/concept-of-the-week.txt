@@ -1,1 +1,1 @@
-content/git/concepts/pull/pull.md
+content/java/concepts/array-list/array-list.md
