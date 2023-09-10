@@ -1,1 +1,1 @@
-content/javascript/concepts/npm/npm.md
+content/php/concepts/variables/variables.md
