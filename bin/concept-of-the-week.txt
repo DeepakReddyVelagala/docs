@@ -1,1 +1,1 @@
-content/swift/concepts/switch/switch.md
+content/java/concepts/variables/variables.md
