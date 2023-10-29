@@ -1,1 +1,1 @@
-content/general/concepts/who-is-linus-torvalds/who-is-linus-torvalds.md
+content/cpp/concepts/smart-pointers/smart-pointers.md
