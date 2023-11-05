@@ -1,1 +1,1 @@
-content/cpp/concepts/smart-pointers/smart-pointers.md
+content/css/concepts/box-sizing/box-sizing.md
