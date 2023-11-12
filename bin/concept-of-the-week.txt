@@ -1,1 +1,1 @@
-content/css/concepts/box-sizing/box-sizing.md
+content/go/concepts/data-types/data-types.md
