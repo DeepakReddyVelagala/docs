@@ -1,1 +1,1 @@
-content/emojicode/concepts/strings/strings.md
+content/git/concepts/pull-requests/pull-requests.md
