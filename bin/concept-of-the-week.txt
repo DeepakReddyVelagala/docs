@@ -1,1 +1,1 @@
-content/cpp/concepts/arrays/arrays.md
+content/python/concepts/loops/loops.md
