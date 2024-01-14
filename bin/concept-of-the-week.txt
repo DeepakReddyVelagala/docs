@@ -1,1 +1,1 @@
-content/python/concepts/modules/modules.md
+content/general/concepts/what-is-an-argument/what-is-an-argument.md
