@@ -1,1 +1,1 @@
-content/python/concepts/modulo/modulo.md
+content/java/concepts/data-types/data-types.md
