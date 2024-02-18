@@ -1,1 +1,1 @@
-content/general/concepts/what-is-a-string/what-is-a-string.md
+content/javascript/concepts/arrays/arrays.md
