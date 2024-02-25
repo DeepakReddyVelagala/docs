@@ -1,1 +1,1 @@
-content/javascript/concepts/arrays/arrays.md
+content/general/concepts/who-is-dennis-ritchie/who-is-dennis-ritchie.md
