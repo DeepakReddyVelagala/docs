@@ -1,1 +1,1 @@
-content/php/concepts/comments/comments.md
+content/html/concepts/paragraphs/paragraphs.md
