@@ -1,1 +1,1 @@
-content/ruby/concepts/data-types/data-types.md
+content/typescript/concepts/assignability/assignability.md
