@@ -1,1 +1,1 @@
-content/typescript/concepts/assignability/assignability.md
+content/swift/concepts/operators/operators.md
