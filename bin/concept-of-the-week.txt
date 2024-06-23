@@ -1,1 +1,1 @@
-content/cpp/concepts/switch/switch.md
+content/c/concepts/memory-management/memory-management.md
