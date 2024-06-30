@@ -1,1 +1,1 @@
-content/c/concepts/memory-management/memory-management.md
+content/typescript/concepts/unions/unions.md
