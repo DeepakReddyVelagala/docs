@@ -1,1 +1,1 @@
-content/cpp/concepts/polymorphism/polymorphism.md
+content/c/concepts/compiling/compiling.md
