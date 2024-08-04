@@ -1,1 +1,1 @@
-content/c/concepts/compiling/compiling.md
+content/git/concepts/init/init.md
