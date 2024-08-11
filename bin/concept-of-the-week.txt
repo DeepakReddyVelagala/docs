@@ -1,1 +1,1 @@
-content/git/concepts/init/init.md
+content/sql/concepts/joins/joins.md
