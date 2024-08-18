@@ -1,1 +1,1 @@
-content/sql/concepts/joins/joins.md
+content/general/concepts/who-is-alan-turing/who-is-alan-turing.md
