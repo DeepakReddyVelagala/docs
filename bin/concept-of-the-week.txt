@@ -1,1 +1,1 @@
-content/general/concepts/who-is-alan-turing/who-is-alan-turing.md
+content/typescript/concepts/functions/functions.md
