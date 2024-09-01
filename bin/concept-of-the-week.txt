@@ -1,1 +1,1 @@
-content/typescript/concepts/functions/functions.md
+content/react/concepts/components/components.md
