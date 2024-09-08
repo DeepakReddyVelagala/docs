@@ -1,1 +1,1 @@
-content/react/concepts/components/components.md
+content/python/concepts/math-module/math-module.md
