@@ -1,1 +1,1 @@
-content/cpp/concepts/conditionals/conditionals.md
+content/cpp/concepts/variables/variables.md
