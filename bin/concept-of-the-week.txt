@@ -1,1 +1,1 @@
-content/python/concepts/tuples/tuples.md
+content/cpp/concepts/comments/comments.md
