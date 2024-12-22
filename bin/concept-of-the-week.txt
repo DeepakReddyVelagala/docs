@@ -1,1 +1,1 @@
-content/typescript/concepts/primitives/primitives.md
+content/general/concepts/who-is-aaron-swartz/who-is-aaron-swartz.md
