@@ -1,1 +1,1 @@
-content/sql/concepts/operators/operators.md
+content/cpp/concepts/enum/enum.md
