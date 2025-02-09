@@ -1,1 +1,1 @@
-content/cpp/concepts/enum/enum.md
+content/python/concepts/functions/functions.md
